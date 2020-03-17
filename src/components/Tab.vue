@@ -1,7 +1,7 @@
 <template>
   <header>
     <i class="fas fa-arrow-circle-left" @click = "goBack"></i>
-    <h3> lucia </h3>
+    <h3> 若言 </h3>
   </header>
 </template>
 
